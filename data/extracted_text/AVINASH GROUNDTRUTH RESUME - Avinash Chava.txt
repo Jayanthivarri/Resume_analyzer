@@ -1,18 +1,18 @@
 AVINASH CHAVA
-AI Engineer  |  Gen AI Engineer |  Python Fullstack Developer
-Hyderabad, India  |  +91 7013861220  |  avinashchavasp129@gmail.com  |  linkedin.com/in/avinashchava
+AI Engineer | Gen AI Engineer | Python Fullstack Developer
+Hyderabad, India | +91 7013861220 | avinashchavasp129@gmail.com | linkedin.com/in/avinashchava
 PROFESSIONAL SUMMARY
 Aspiring AI/GenAI Engineer with hands-on experience building LLM-powered applications, RAG pipelines, and computer 
 vision systems using Python, LangChain, PyTorch, and TensorFlow. Skilled in prompt engineering, transformer architectures, 
 and full-stack development with Django and FastAPI. Passionate about turning emerging AI research into practical, 
 production-ready solutions.
 EDUCATION
-B.Tech in Computer Science & Engineering  |  Dr. B.R. Ambedkar University, Srikakulam  |  Oct 2022 – May 2025
+B.Tech in Computer Science & Engineering | Dr. B.R. Ambedkar University, Srikakulam | Oct 2022 – May 2025
 CGPA: 8.14
-Diploma in Plastic Mould Technology  |  Central Institute of Petrochemical Engineering & Technology (CIPET)  |  
+Diploma in Plastic Mould Technology | Central Institute of Petrochemical Engineering & Technology (CIPET) | 
 Oct 2021 – April 2022
 INTERNSHIP
-AI & Gen AI Intern  |  Talent Smart Soft Solutions  |  May 2026 – Nov 2026 (Ongoing)
+AI & Gen AI Intern | Talent Smart Soft Solutions | May 2026 – Nov 2026 (Ongoing)
 • Building and integrating Large Language Models (LLMs) through hands-on API integration, prompt engineering, and 
 conversation design for real-time applications.
 • Developing RAG pipelines using vector databases and embedding models; working on transformer-based models for 
@@ -26,24 +26,24 @@ Python Fullstack: Python, Django, FastAPI, HTML, CSS, REST APIs
 Database: MySQL
 Cloud & Tools: AWS, Git, Jupyter Notebook, VS Code, Vibe Coding, Antigravity, Gemini
 CERTIFICATIONS
-Claude (Anthropic)  |  SQL  |  Python – LetsUpgrade  |  Python – Kaggle  |  Python – freeCodeCamp
+Claude (Anthropic) | SQL | Python – LetsUpgrade | Python – Kaggle | Python – freeCodeCamp
 PROJECTS
-Face Recognition Attendance System  |  Deep Learning | FastAPI | MySQL | OpenCV | ONNX
+Face Recognition Attendance System | Deep Learning | FastAPI | MySQL | OpenCV | ONNX
 • Developed a real-time face recognition attendance system using deep learning models for face detection and 
 recognition via ONNX runtime and OpenCV.
 • Built a FastAPI backend for face enrollment, live recognition, and automatic attendance logging into MySQL; automated 
 model download pipeline for easy deployment.
-LLM Health Analysis System  |  Python | LangChain | Gemini | Streamlit
+LLM Health Analysis System | Python | LangChain | Gemini | Streamlit
 • Built an AI health assistant using Gemini LLM and LangChain to analyze user-described symptoms and generate 
 context-aware health insights with conversation memory.
 • Designed an interactive Streamlit dashboard for real-time health data input with safe-response guardrails and multi-turn 
 consultation support.
-Personal Startup — Service Information Portal  |  Python | Django | HTML | CSS
+Personal Startup — Service Information Portal | Python | Django | HTML | CSS
 • Designed and built a fully functional static service-based information portal using Django with responsive HTML and 
 CSS frontend covering services, about, and contact sections.
 • Configured Django URL routing, views, and templates for efficient content delivery with a clean, maintainable project 
 structure.
-Machine Learning & Deep Learning Projects  |  Python | Scikit-learn | TensorFlow | Keras | Jupyter Notebook
+Machine Learning & Deep Learning Projects | Python | Scikit-learn | TensorFlow | Keras | Jupyter Notebook
 • Worked hands-on with ML and DL models covering supervised learning for classification and regression tasks, and 
 unsupervised learning for clustering and pattern recognition.
 • Built and trained neural network models for image and text data; managed complete workflows in Jupyter Notebook from 

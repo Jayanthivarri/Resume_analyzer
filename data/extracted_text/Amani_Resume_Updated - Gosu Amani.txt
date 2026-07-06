@@ -1,7 +1,7 @@
 AMANI GOSU 
 Python Developer · Custom Software Engineer · Backend Developer · Generative AI Engineer 
 gosuamani@gmail.com | Hyderabad, India | LinkedIn | GitHub 
- 
+
 PROFESSIONAL SUMMARY 
 Results-driven Computer Science graduate with strong proficiency in Python programming and software development lifecycle 
 (SDLC). Hands-on experience writing clean, maintainable, and efficient Python code with a focus on agile methodologies and 
@@ -12,7 +12,7 @@ TECHNICAL SKILLS
 Languages: Python, Java, SQL, JavaScript 
 AI & GenAI: Generative AI, LLMs, Prompt Engineering, NLP 
 Backend & Databases: REST API Development, MySQL 
- 
+
 INTERNSHIP EXPERIENCE 
 Generative AI Intern | TalentSmart 
 2026 – Present 
@@ -31,7 +31,7 @@ application accuracy and relevance.
 ● 
 Apply structured debugging and testing techniques to identify and resolve software defects, ensuring functionality and 
 performance of AI components. 
- 
+
 Python Developer Intern | Besant Technologies (Virtual) 
 Jan – Feb 2024 
 ● 
@@ -61,7 +61,7 @@ practices.
 ● 
 Conducted systematic debugging and testing across all modules, ensuring functionality and performance of each 
 component before integration. 
- 
+
 Twitter Trend Mining & Sentiment Analysis System | Academic Project 
 Tech Stack: Python, NLP 
 ● 
@@ -96,4 +96,4 @@ to join immediately.
 ● 
 Open to roles: Custom Software Engineer, Python Developer, Backend Developer, and Generative AI Engineer. 
 HOBBIES & INTERESTS 
-Sports & Fitness, Traveling, Music 
+Sports & Fitness, Traveling, Music

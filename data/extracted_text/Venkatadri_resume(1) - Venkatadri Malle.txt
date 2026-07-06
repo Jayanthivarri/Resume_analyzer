@@ -1,8 +1,8 @@
 MALLE VENKATADRI 
 Hyderabad, Telangana 
-+91 7989332496 | mallevenkatadri892@gmail.com  
-LinkedIn:  linkedin.com/in/mallevenkatadri  
- 
++91 7989332496 | mallevenkatadri892@gmail.com 
+LinkedIn: linkedin.com/in/mallevenkatadri 
+
 CAREER OBJECTIVE 
 Enthusiastic fresher with a good understanding of Python fundamentals and strong problem-
 solving skills. Familiar with Linux operating system and basic networking concepts. Quick 
@@ -18,7 +18,7 @@ Machine Learning & Data Science: Predictive Modeling, Data Analysis, Statistical
 Tools & Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, MySQL 
 • 
 Core Competencies: Problem-Solving, Algorithm Development, Data Preprocessing 
- 
+
  EDUCATION 
 • 
 B.Tech in Electronics and Communication Engineering 
@@ -29,7 +29,7 @@ Govt Junior College (2019–2021) | Percentage: 84%
 • 
 SSC 
 Z.P.High School (2019) |GPA 9.2/10.0 
- PROJECTS  
+ PROJECTS 
 Stroke Risk Prediction System (Healthcare ML Project) 
 • 
 Developed a machine learning model to predict stroke risk using Python and data 
@@ -62,4 +62,4 @@ Languages: English, Telugu
 • 
 Soft Skills: Communication, Teamwork, Analytical Thinking, Problem-Solving 
 • 
-Hobbies: Learning New Technologies, Reading Books, Playing Games 
+Hobbies: Learning New Technologies, Reading Books, Playing Games

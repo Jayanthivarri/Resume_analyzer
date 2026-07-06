@@ -1,10 +1,10 @@
 KOTTA YASASWI 
- yasaswi.kotha2004@gmail.com  
+ yasaswi.kotha2004@gmail.com 
  9030827948 
- Kukatpally, pragathi nagar, saptami heights, flat no 101,b block  
+ Kukatpally, pragathi nagar, saptami heights, flat no 101,b block 
  github.com/yasaswikotha 
 PROFILE 
- 
+
 Motivated Computer Science undergraduate with hands-on experience in full-stack web development and 
 database management. Passionate about building scalable applications and continuously learning new 
 technologies. Strong team collaborator with good problem-solving and communication skills. 
@@ -21,7 +21,7 @@ PYTHON PROGRAMMING INTERN
 Developed basic python applications and participated in debugging exercises.• 
 Gained hands-on experience with OOPs concepts.• 
 EDUCATION 
- 
+
 INTERMEDIATE, Sri gayatri junior college 
 2020 – 2022 
 Board: TSBIE• 
@@ -34,30 +34,9 @@ Board: CBSE•
 Hyderabad 
 Percentage: 78%• 
 SKILLS 
- 
-  
- reddy  
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+ reddy 
+
 PROJECTS 
 IT INVENTORY MANAGEMENT SYSTEM 
 Developed a system to track IT assets using Java and MySQL.• 
@@ -65,7 +44,7 @@ Implemented CRUD operations and user authentication.•
 Normalized relational database schema to reduce redundancy and improve query efficiency.• 
 PERSONAL PORTFOLIO WEBSITE 
 Designed and developed a responsive portfolio using HTML, CSS, and JavaScript to showcase academic and• 
- 
+
 project experience. 
 Hosted the site using GitHub Pages.• 
 Optimized website performance by minimizing CSS and JavaScript files• 
@@ -73,11 +52,10 @@ CODE EDITOR
 Built a browser-based code editor using JavaScript and local storage.• Supported 
 real-time code preview.• 
 CERTIFICATES 
- 
-JAVA FULLSTACK  
+
+JAVA FULLSTACK 
 DEVELOPMENT 
  kosmik technologies• 
-CAMBRIDGE ENGLISH  
+CAMBRIDGE ENGLISH 
 EMPOWER 
- Level C1 course• 
- 
+ Level C1 course•

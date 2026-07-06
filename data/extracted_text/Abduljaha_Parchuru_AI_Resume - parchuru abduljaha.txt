@@ -1,6 +1,6 @@
 ABDULJAHA PARCHURU 
 AI Engineer | Gen AI Developer | Python Fullstack Developer 
-Hyderabad, India  |  +91 9100845631  |  parchuruabduljaha786@gmail.com  |  linkedin.com/in/abduljahaparchuru 
+Hyderabad, India | +91 9100845631 | parchuruabduljaha786@gmail.com | linkedin.com/in/abduljahaparchuru 
 PROFILE SUMMARY 
 AI Engineer and Gen AI Developer with hands-on experience building LLM-powered applications, RAG pipelines, and full-stack solutions using Python, 
 Django, and FastAPI. Skilled in API integration, prompt engineering, and conversation design with tools like Claude, Gemini, and OpenAI, along with a 
@@ -50,4 +50,4 @@ CERTIFICATIONS
 • Certified by Smart Internz on Front-End Development 
 • Certified by Cognitive Class on Python for Data Science 
 HOBBIES 
-Playing Cricket   |   Listening to Music   |   Watching Movies 
+Playing Cricket | Listening to Music | Watching Movies
