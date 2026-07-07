@@ -1,0 +1,44 @@
+2025
+2022
+2019
+SADHU RAJYALAXMI
+Srikakulam, Etcherla, Andhra Pradesh
++1919381197559 | sadhurajyalaxmi@gmail.com
+ in LinkedIn.com/in/Sadhu-Rajyalaxmi-87017b314
+Objective
+I am an ambitious individual with a strong academic background in Computer Science and Engineering. I excel in
+team settings and thrive on building strong relationships with colleagues. My technical skills in coding and web
+development, complemented by my participation in various internships, prepare me to contribute effectively to
+professional projects and teams.
+Education
+Dr.B.R.Ambedkar University Srikakulam
+Bachelor of Technology in Computer Science and Engineering
+7.5 CGPA
+Government Polytechnic Srikakulam
+Diploma in CSE
+87%
+Z.P.High school,Bonthalakoduru, Srikakulam
+SSC
+9.2CGPA
+Skills
+Technical Skills: Python,MySql,Html,Css, Javascript,Django,React js, Artificial Intelligence, Machine Learning
+Academic Coursework:Data Structures,Operating systems, Computer Networks, Software Engineering,DBMS
+Soft skills:Communication skills, Teamwork
+Projects
+Responsive Plant E-Commerce Website
+Developed a user-friendly e-commerce platform for purchasing and selling plants and gardening supplies, which
+adapts to various screen sizes.
+Online payment fraud detection model using machine learning techniques
+Online payment fraud detection as a critical aspect of e-commerce and digital payment Machine Learning
+techniques can be employed to develop effective models for detecting and preventing fraudulent transactions 
+Internships
+Participated in a virtual internship on 'DRONE TECHNOLOGIES' organised by ROSYS VIRTUAL SOLUTIONS Pvt
+.Ltd.
+Completed a web development internship at Coding Samurai, creating a functional calculator web application.
+Certificates
+UNXT by UNNATI - A Soft Skill DevelopmentProgram Certified by SGBS UNNATI FOUNDATION by with the help
+of Infosys .
+EdX certificates-Python Basics for Data Science, Introduction to Web Development through IBM
+Languages
+English
+Telugu

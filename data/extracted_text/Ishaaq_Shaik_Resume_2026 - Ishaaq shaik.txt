@@ -1,0 +1,55 @@
+Ishaaq Shaik
+2100030733cser@gmail.com
+ 
+7569343733
+ 
+Vijayawada, Andhra Pradesh India
+ 
+Ishaaq Shaik
+ 
+github.com/Ishaaqshaik
+ 
+Education
+Bachelor of Technology in Computer Science Engineering, 
+Koneru Lakshmaiah Educational Foundation, Guntur
+CGPA: 8.08
+2021 – 2025
+Intermediate, Sarada Educational Institutions, Vijayawada
+2019 – 2021
+School, St. John's E.M. High School, Vijayawada
+2019
+Skills
+Technical Skills
+Programming Languages: Java, Python, HTML + CSS
+Cloud & Databases: SQL, Oracle Cloud Infrastructure 
+Relevant Coursework: Data Structures & Algorithms, 
+Operating Systems, Object-Oriented Programming, 
+Database Management Libraries & Frameworks: 
+Pandas, NumPy, Matplotlib
+Soft Skills
+Problem Solving, Self-Learning, Adaptability, Project 
+Management, Teamwork and Collaboration
+Projects
+Data Visualization and Techniques
+•Evaluated scalability, performance, and visualization capabilities of Tableau, power BI, and Excel for 
+enterprise-level datasets.
+•Identified strengths, limitations, and optimization strategies for each tool using statistical analysis and data 
+visualization techniques.
+Service Management System – Servizo
+•Developed a full-stack web application that streamlines service management in gated communities by 
+connecting customers, administrators, and service providers (captains).
+•Enables customers to register, log in, and book services like plumbing, cleaning, and electrical work, while 
+admins manage requests and captains update task statuses.
+•Implemented a responsive frontend using HTML, CSS, JavaScript, and Bootstrap, with backend logic built in 
+Python (Flask/Django) and MySQL as the database.
+Service Management System
+Developed an online bookstore project using Java, implementing features such as book catalog, user 
+authentication, and order management.
+Certificates
+AWS Cloud Practitioner 
+Essentials
+Oracle Cloud Infrastructure: 
+Beacon
+Cybersecurity Fundamentals
+Salesforce AI Associate
+RPA Professional Essentials

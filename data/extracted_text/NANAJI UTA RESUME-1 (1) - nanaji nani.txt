@@ -1,0 +1,50 @@
+Aspiring AI and Data Science professional seeking an entry-level role where I can apply my technical
+knowledge and analytical skills to solve real-world problems and contribute to the organization’s growth
+while continuously learning and evolving with emerging technologies.
+SocialTek AI & ML Business Solutions Pvt Ltd
+B.Tech in Artificial Intelligence & Data Science
+Data Science Intern
+Kakinada Institute of Engineering & Technology,
+East Godavari (2021–2024)
+CGPA:7.07
+Collaborated on AI and ML projects, applying data science techniques to solve business challenges.
+Gained hands-on experience in Python, machine learning, and data analysis.
+Worked effectively as a team player, contributing to the successful execution of project deliverables.
+Sept 2024 – Dec 2024
+CAREER OBJECTIVE
+97012 83862,nanajinani600@gmail.com Linkdin
+Pithapuram,Andhra Pradesh,533447.
+NANAJI UTA
+INTERNSHIP & EXPERIENCE
+EDUCATION
+SKILLS
+PROJECT
+Credit Card User Prediction
+Built a machine learning model to predict whether credit card user data is classified as good or bad.
+Preprocessed data and performed feature engineering for better model performance.
+Used Python libraries like Pandas, NumPy, and Scikit-learn for analysis and model building.
+Achieved high accuracy in prediction and optimized the model using hyperparameter tuning.
+GitHub: github.com/Nanajinani/credit_card_prediction
+CERTIFICATIONS
+Job Ready Training Program in AI & DS
+Completion Certificate:
+Social Prachar (Feb 2024 – Aug 2024) 
+Programming: Python, SQL
+AI & Data Science: Machine Learning, Deep Learning (ANN, CNN, RNN), Computer Vision,
+Generative AI, Data Analysis,PowerBI
+Libraries: Numpy,Pandas,Matplot-lib,Sk-learn,Keras,Pytorch,Tenserflow,
+Tools: Excel, Jupyter Notebook, Google Colab
+Soft Skills: Problem-Solving, Critical Thinking, Collaboration
+Diploma in Electronics & Communication
+Engineering
+COL DS Raju Polytechnic College, West Godavari
+PERCENTAGE:68.73
+Secondary School
+ZPP High School, East Godavari 
+PERCENTAGE:85%
+Internship Completetion Certificate:
+SocialTek AI & ML Business Solutions Pvt Ltd
+(Sept 2024 – Dec 2024)
+LANGUAGES
+English: Professional Proficiency
+Telugu: Native

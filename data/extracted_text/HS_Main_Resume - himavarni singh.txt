@@ -1,0 +1,57 @@
+HIMAVARNI SINGH
+USA | 617-691-9259 | himavarnisingh56@gmail.com | https://linkedin.com/in/himavarnisingh
+PROFESSIONAL SUMMARY
+Analytical and results-oriented Data & Management Analyst with 3 years of experience transforming operational and business require-
+ments into actionable insights, automated reporting solutions, and process improvements. Skilled in SQL, Python, Tableau, Power BI, 
+Excel, and statistical techniques to optimize workflows, forecast trends, and support executive decision-making. Adept at collaborating 
+with cross-functional teams in Agile environments to design experiments, develop dashboards, analyze KPIs, and communicate findings 
+in clear, data-driven narratives that influence strategy and operations.
+PROFESSIONAL EXPERIENCE
+Kalyani Strawboards | Management Analyst
+Apr 2020 - Apr 2023
+• Automated interactive dashboards using Power BI and Tableau, enabling real-time visibility into operational KPIs.
+• Reduced manual reporting time by 60% by building automated data pipelines and reporting systems that were adopted by 15 managers, 
+which accelerated decision-making speed
+• Utilized MySQL, Oracle SQL, Excel, and statistical techniques to extract, clean, and validate datasets for performance tracking and 
+forecasting.
+• Conducted workflow and business process assessments, identifying gaps and implementing data-driven solutions to enhance opera-
+tional efficiency.
+• Supported strategic planning initiatives with technical documentation, insights, and data-backed recommendations for business 
+improvements.
+SIMS Healthcare Pvt. Ltd. | Data Management Analyst
+May 2023 - Aug 2023
+• Worked with multiple teams to improve documentation and reporting processes, helping increase communication efficiency and reduce 
+audit exceptions.
+Self-Employed | Operations & Property Management Lead
+Jan 2019 - 2022
+• Oversaw end-to-end operations for a portfolio of residential rental properties, including tenant onboarding, lease compliance, mainte-
+nance scheduling, and financial management.
+• Managed rental accounts totaling $40,000 in annual revenue, maintaining 100% on-time rent collection and accurate monthly 
+reconciliations.
+• Implemented standardized rent-tracking and expense-management processes, reducing late payments by 40% and improving financial 
+reporting efficiency for tax filings.
+• Negotiated contracts with maintenance vendors and service providers, cutting repair and upkeep costs by 15-25% without compro-
+mising property quality.
+• Maintained 95%+ occupancy rates through market-based pricing strategies, proactive tenant engagement, and rapid issue resolution.
+EDUCATION
+Northeastern University | Master of Science, Information Systems (GPA: 3.8)
+Sep 2023 - May 2025
+SRM Institute of Science & Technology | Bachelor of Technology, Computer Science
+Jul 2019 - May 2023
+TECHNICAL SKILLS
+• Data & Analytics: SQL (MySQL, Oracle), Python (NumPy), Power BI, Tableau, Excel (pivot tables, VLOOKUP, dashboards), 
+Statistical Analysis, KPI Measurement, A/B Testing
+• Tools & Platforms: AWS, Git
+• Business & Operations: Data Storytelling, Forecasting, Reporting Automation, Requirements Gathering, Process Optimization, 
+Data-Driven Decision-Making
+• Methodologies: Agile, Workflow Assessment, Continuous Improvement
+PROJECTS
+Leaf Disease Detection
+• Developed a convolutional neural network achieving 96% accuracy in detecting plant disease patterns, enabling early intervention and 
+reducing manual inspection dependency.
+Vehicle & Lane Detection
+• Engineered a real-time lane and vehicle recognition system using Canny edge detection and polynomial fitting, achieving 70% detection 
+accuracy for highway scenarios.
+Driver Drowsiness Detection System
+• Integrated biometric sensors with motion-detection algorithms to identify fatigue indicators, resulting in a 60% reduction in drowsi-
+ness-related incidents during prototype testing.

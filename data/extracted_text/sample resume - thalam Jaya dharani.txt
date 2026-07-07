@@ -1,0 +1,72 @@
+                         THALAM JAYA DHARANI 
+                                                                        thalamdharanibindu18@gmail.com || Madicherla                                                                  
+                          https://www.linkedin.com/in/thalam-jaya-dharani | https://github.com/Thalamjayadharani7 
+Education 
+ 
+Lakireddy Bali Reddy College of Engineering 
+Mylavaram 
+Artificial Intelligence & Data Science (B. Tech) 
+   2021-2025 
+CGPA: 8.54 
+Internship 
+ 
+TARAS SYSTEM AND SOLUTIONS | AI–ML Virtual Intern 
+Online | Jan 2025 – Apr 2025 
+Completed a virtual internship focusing on real-time AI and ML projects, including word extraction, hostel management 
+system, WhatsApp analysis, spam detection, heart attack prediction, hand gesture recognition, and a virtual calculator. 
+Contributed to model development and implementation workflows throughout the internship. 
+BHARATH INTERN | Web Development Intern 
+Online | Feb 2024 – Mar 2024 
+Developed responsive web applications, including a Netflix clone and personal portfolio, using HTML, CSS, and 
+JavaScript. Focused on UI design, layout structure, and front-end implementation throughout the internship. 
+Skills 
+ 
+Programming Languages 
+: 
+Python, C 
+ Libraries/Frameworks 
+: 
+HTML, CSS,Flask 
+Databases 
+: 
+MySQL 
+Core Areas 
+:           Machine Learning,Deep Learning,AI 
+    Projects / Open-Source 
+• 
+Dissecting Facial Features: A Deep Learning Synthesis for Age and Gender Prediction 
+                                                                                                                                                      DL, FLASK, HTML, CSS, JS 
+Developed a deep learning-based model leveraging the ResNet-50 architecture for real-time age and gender 
+detection. Trained on the UTKFace dataset, utilising advanced feature extraction techniques to ensure robust 
+predictions. Designed and integrated a user-friendly Flask-based web interface for seamless image upload and 
+instant feedback, showcasing the model's scalability and efficiency in applications such as personalized marketing, 
+security systems, and demographic analysis. 
+ 
+• 
+Driver Drowsiness Detection System Using Deep Learning                                                          DEEP LEARNING 
+Developed an advanced Driver Drowsiness Detection System using Convolutional Neural Networks (CNN) to 
+improve road safety. The system analyses live video feeds from in-vehicle cameras to monitor drivers' eye 
+movements and facial expressions, providing real-time alerts for drowsiness. 
+• 
+Deciphering Cardiac Destiny: Unveiling Future Risks Through Cutting-Edge Machine Learning Approaches 
+MACHINE LEARNING 
+Built a real-time cardiac arrest prediction system using machine learning techniques to analyze patient health 
+patterns and risk factors. The solution enhances proactive medical response by forecasting cardiac events with 
+improved accuracy. 
+• 
+Aesthetic Decor                                                                                                              HTML, CSS, JavaScript   
+Designed and implemented a deep learning model with CNNs to predict the most intense color in images, achieving 
+high accuracy through effective data preprocessing and model design. 
+Certifications / Achievements 
+ 
+• 
+Published a Machine Learning research paper. 
+• 
+Completed Accenture Nordics Software Engineering Simulation. 
+• 
+Certified in Python, Machine Learning, Java, and HTML. 
+• 
+ Volunteered and coordinated technical events. 
+Hobbies: Coding, reading tech blogs, learning new technologies, and listening to music. 
+Interests: Artificial Intelligence, Machine Learning, Generative AI, and Computer Vision. 
+State: Andhra Pradesh. 

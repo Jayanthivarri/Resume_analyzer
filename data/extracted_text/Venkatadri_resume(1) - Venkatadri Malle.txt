@@ -1,0 +1,65 @@
+MALLE VENKATADRI 
+Hyderabad, Telangana 
++91 7989332496 | mallevenkatadri892@gmail.com  
+LinkedIn:  linkedin.com/in/mallevenkatadri  
+ 
+CAREER OBJECTIVE 
+Enthusiastic fresher with a good understanding of Python fundamentals and strong problem-
+solving skills. Familiar with Linux operating system and basic networking concepts. Quick 
+learner with a strong interest in learning new technologies and adapting to new challenges. 
+Seeking an entry-level Software Engineer, Python Developer, or Gen ai developer role to grow, 
+contribute, and be part of innovative projects. 
+TECHNICAL SKILLS 
+• 
+Programming Languages: Python, Java, C, SQL, HTML 
+• 
+Machine Learning & Data Science: Predictive Modeling, Data Analysis, Statistical Analysis 
+• 
+Tools & Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, MySQL 
+• 
+Core Competencies: Problem-Solving, Algorithm Development, Data Preprocessing 
+ 
+ EDUCATION 
+• 
+B.Tech in Electronics and Communication Engineering 
+KSRM COLLEGE OF ENGINEERING (2021–2025) | CGPA: 8.49/10 
+• 
+Intermediate (MPC) 
+Govt Junior College (2019–2021) | Percentage: 84% 
+• 
+SSC 
+Z.P.High School (2019) |GPA 9.2/10.0 
+ PROJECTS  
+Stroke Risk Prediction System (Healthcare ML Project) 
+• 
+Developed a machine learning model to predict stroke risk using Python and data 
+preprocessing techniques. 
+• 
+Enhanced model accuracy by 25% through feature engineering and statistical analysis. 
+• 
+Applied ML algorithms for early medical risk detection. 
+Taxi Fare Prediction System (Transportation Analytics) 
+• 
+Built a predictive model for taxi fare estimation using regression analysis. 
+• 
+Designed data visualization dashboards for trend analysis and pricing optimization. 
+• 
+Utilized Python, Statistical Analysis, and Regression Modeling for accurate results. 
+ CERTIFICATIONS 
+• 
+Machine learning – koggle 
+• 
+Python – free code camp 
+• 
+Data Science – Great Learning 
+• 
+SQL & Python – koggle 
+• 
+Python fullstack - ExcelR 
+ ADDITIONAL INFORMATION 
+• 
+Languages: English, Telugu 
+• 
+Soft Skills: Communication, Teamwork, Analytical Thinking, Problem-Solving 
+• 
+Hobbies: Learning New Technologies, Reading Books, Playing Games 

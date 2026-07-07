@@ -1,0 +1,99 @@
+AMANI GOSU 
+Python Developer · Custom Software Engineer · Backend Developer · Generative AI Engineer 
+gosuamani@gmail.com | Hyderabad, India | LinkedIn | GitHub 
+ 
+PROFESSIONAL SUMMARY 
+Results-driven Computer Science graduate with strong proficiency in Python programming and software development lifecycle 
+(SDLC). Hands-on experience writing clean, maintainable, and efficient Python code with a focus on agile methodologies and 
+collaborative development. Currently building industry experience in Generative AI and LLM-based application development at 
+TalentSmart. Proven ability to design, code, test, and debug scalable backend solutions. Seeking a Custom Software Engineer / 
+Python Developer role at Accenture, Hyderabad to contribute to high-performing, business-specific software solutions. 
+TECHNICAL SKILLS 
+Languages: Python, Java, SQL, JavaScript 
+AI & GenAI: Generative AI, LLMs, Prompt Engineering, NLP 
+Backend & Databases: REST API Development, MySQL 
+ 
+INTERNSHIP EXPERIENCE 
+Generative AI Intern | TalentSmart 
+2026 – Present 
+● 
+Develop and maintain Python-based AI pipelines to automate text processing, summarization, and intelligent response 
+generation — writing clean, modular, and reusable code. 
+● 
+Build and fine-tune LLM-powered applications using prompt engineering and modern GenAI frameworks, following 
+agile practices and iterative delivery. 
+● 
+Collaborate with the engineering team to integrate Generative AI features into production-ready workflows, participating 
+in requirement gathering, design, and code review. 
+● 
+Explore and implement RAG (Retrieval-Augmented Generation) and vector-based search using Python to enhance AI 
+application accuracy and relevance. 
+● 
+Apply structured debugging and testing techniques to identify and resolve software defects, ensuring functionality and 
+performance of AI components. 
+ 
+Python Developer Intern | Besant Technologies (Virtual) 
+Jan – Feb 2024 
+● 
+Developed 10+ Python applications covering OOP, REST API integration, and data structure challenges — improving 
+code reusability by modularizing shared logic into reusable libraries. 
+● 
+Reduced average debugging time by applying structured error-handling patterns and unit testing practices across 5+ 
+mini-projects — demonstrating clean, maintainable code practices. 
+● 
+Built backend logic for REST API consumption tasks, simulating real-world data fetch, parse, and store pipelines using 
+Python. 
+● 
+Collaborated asynchronously on team mini-projects, delivering well-documented code with clear input/output 
+specifications — aligned with agile and collaborative development workflows. 
+PROJECTS 
+Privacy Protection & Intrusion Avoidance — Cloudlet-Based Medical Data Sharing | Academic Project 
+Tech Stack: Java, Python, MySQL, REST API 
+● 
+Designed and developed a secure, cloudlet-based medical data sharing platform serving 3 user roles (Admin, Doctor, 
+Patient) — applying clean code and modular architecture principles. 
+● 
+Implemented encryption for all sensitive medical records at rest, achieving full data confidentiality through robust 
+security coding practices. 
+● 
+Built RESTful APIs with Spring Boot MVC — independently testable, scalable, and following industry-standard SDLC 
+practices. 
+● 
+Conducted systematic debugging and testing across all modules, ensuring functionality and performance of each 
+component before integration. 
+ 
+Twitter Trend Mining & Sentiment Analysis System | Academic Project 
+Tech Stack: Python, NLP 
+● 
+Built an automated Python data mining pipeline that extracts and processes 5,000+ tweets daily — writing efficient, rate-
+limit-aware, maintainable code. 
+● 
+Applied NLP-based sentiment classification to categorize tweet polarity (positive, negative, neutral) across trending 
+topics, demonstrating Python proficiency in real-world data pipelines. 
+● 
+Preprocessed and cleaned raw tweet datasets in Python — removing noise, stop words, and duplicates — improving 
+model accuracy through structured data handling. 
+● 
+Visualized sentiment trends and topic frequency to enable data-driven insight reporting and communicate results clearly 
+to stakeholders. 
+EDUCATION 
+B.Tech – Computer Science & Engineering | Priyadarshini Institute of Science & Technology for Women 
+2025 | CGPA: 7.2 / 10 
+Intermediate (MPC): 83% | SSC: 85% 
+ADDITIONAL INFORMATION 
+● 
+Actively building Generative AI expertise — working with LLMs, prompt engineering, RAG pipelines, and AI-powered 
+automation at TalentSmart (Hyderabad, 2026). 
+● 
+Strong problem-solving foundation in Data Structures & Algorithms, applied consistently through Python projects and 
+internship work. 
+● 
+Quick learner and self-starter; independently mastered Spring Boot, NLP, and GenAI frameworks through hands-on 
+project-based learning. 
+● 
+15 years of full-time education — meets Accenture educational qualification requirement. Based in Hyderabad, available 
+to join immediately. 
+● 
+Open to roles: Custom Software Engineer, Python Developer, Backend Developer, and Generative AI Engineer. 
+HOBBIES & INTERESTS 
+Sports & Fitness, Traveling, Music 

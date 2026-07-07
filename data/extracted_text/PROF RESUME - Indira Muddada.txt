@@ -1,0 +1,47 @@
+2025
+2022
+2019
+Muddada Indira
+Etcherla, Srikakulam, Andhra Pradesh, India
+7981250670 | muddadaindira64@gmail.com
+https://www.linkedin.com/in/indira-muddada-1ba408322
+Objective
+Aspiring Software Developer with strong interest in Generative AI and Full Stack Development, aiming to apply
+skills in Python, React, and Machine Learning to build intelligent and scalable real-world applications while
+continuously learning new technologies.
+Education
+Dr.B.R Ambedkar University Srikakulam
+Bachelor 's Of Technology in Computer Science and Engineering
+7.5 CGPA
+Government Polytechnic Srikakulam, Andhra Pradesh
+Diploma in Computer Science and Engineering
+80.6%
+ZPHigh School Bontalakoduru, Srikakulam, Andhra Pradesh
+SSC
+9.2 GPA
+Skills
+Python | JavaScript | React | HTML | CSS | FastAPI | REST APIs | SQL | MySQL | Machine Learning | Generative AI
+| Git | GitHub | VS Code
+Projects
+Face Recognition System
+Developed a Python-based Face Recognition system to identify individuals from images using pre-trained
+models.
+Implemented face detection, encoding, and matching techniques using OpenCV and face recognition libraries.
+Achieved accurate identification of known faces from input images.
+Image content description system
+Built an image captioning system to generate human-readable descriptions for input images.
+Used pre-trained deep learning models to analyze image content and generate meaningful captions.
+Displayed results in real-time for uploaded images.
+Certifications
+Kaggle: python, MySQL, Machine learning,Deep learning 
+IBM Skills Build : Introduction to HTML5,CSS3 and Java script ,SQL for Data Science 
+Internships
+Web development intern' in coding samurai
+1. Web-based Calculator
+Created a simple yet functional calculator web application that users can access through their web browsers.
+2. To-Do List Application
+Developed a web based to-do list application that allows users to manage their tasks and stay organized
+HOBBIES
+Listening Music 
+Learning new python projects 
+Coding small practice programs

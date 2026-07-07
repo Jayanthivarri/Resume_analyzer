@@ -1,0 +1,62 @@
+C ,Python
+Bachelor Of Technology (B.Tech) ,Computer Science Engineering (Data Science)
+CAREER OBJECTIVE
+K SHIRLEY 
+KEY EXPERTISE
+EDUCATION
+shirleykatherinekandru@gmail.com
+9573472346
+Hyderabad ,Telangana
+linkedin.com/in/shirleykatherine
+CMR COLLEGE OF ENGINEERING AND TECHNOLOGY
+2021-2025
+Board Of Intermediate Education (MPC)
+Narayana Junior College
+2019-2021
+Central Board Of Secondary Education (CBSE)
+Jubilee Hills Public School
+2019
+PROJECTS
+ Vibgyor  -  Designed a color identification system using Arduino to help users with color blindness detect
+colors displayed on an LCD. Focused on user-friendly design and functional hardware integration.
+ Forest Fire Detection - Built and trained a Convolutional Neural Network (CNN) model using NumPy and
+Pandas for early forest fire detection. Developed technical specifications, performed testing, and analyzed
+model accuracy to ensure reliability.
+Air Canvas - A hands free drawing tool that utilizes computer vision to track finger movements using
+OpenCV and NumPy libraries in Python.
+CERTIFICATES
+Digital Skills User Experience
+Accenture
+UI/UX For Beginners 
+Great Learning
+Google Analytics For Beginners 
+Google
+Certificate Of Networking Virtual Internship
+Juniper
+UI/UX Design With Figma
+Udemy
+Languages 
+Databases
+Design &Tools
+Data Analysis / Libraries
+MySQL
+User Experience ,User Interface ,Prototype ,Wireframes,Sharepoint ,Figma
+Numpy, Pandas, Open CV, Excel
+EXPERIENCE
+Active Member, Student Council (College Public Relations Board)
+       2024
+Under Secretary-General for Design, Model United Nations (CMRCET)
+       2023
+Soft Skills
+Communication , Time Management, Team Collaboration, Attention to Detail 
+Computer Science graduate with foundational knowledge in C and Python, along with practical exposure to
+MySQL, data analysis, and UI/UX design. Familiar with tools such as Figma, SharePoint, Excel, NumPy, and
+Pandas through academic work, certifications, and internship experience. Completed a Tech Transformations
+Internship at Wiss & Company, LLP, assisting in improving SharePoint-based workflows. A motivated fresher
+with strong communication, teamwork, time management, and attention to detail, eager to learn and contribute
+in a professional environment.
+Tech Transformations Intern (Remote) – Wiss & Company, LLP
+      Assisted in organizing, optimizing, and maintaining SharePoint sites to improve internal workflows and collaboration
+      2025
+Business Analysis Foundations 
+Linkedin

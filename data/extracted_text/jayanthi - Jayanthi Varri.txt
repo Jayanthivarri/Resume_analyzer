@@ -1,0 +1,72 @@
+                                                   VARRI JAYANTHI     
+                                          Visakhapatnam, AP| jayanthivarri@gmail.com | LinkedIn  | GitHub  
+ 
+PROFESSIONAL SUMMARY 
+Aspiring Data Scientist and AI engineer skilled in Python, SQL, and FastAPI. Proficient in building scalable REST APIs, data-driven 
+applications, and machine learning models. Familiar with cloud platforms, concepts of LLMs and GenAI solutions. 
+ 
+EXPERIENCE 
+Data Science Intern   | Unified Mentor                                                                                                             02/2026 – 05/2026 
+ 
+Build an end-to-end churn prediction model on 10,000 + customers records using XGBoost, achieving ~87% accuracy 
+and ROC-AUC of 0.86. 
+ 
+Performed EDA to identify key churn drivers (age, balance, activity) using Pandas, Matplotlib, and Seaborn for business 
+insights. 
+ 
+Developed a Streamlit dashboard to visualize KPIs, customer risk and real-time churn predictions. 
+ 
+EDUCATION 
+Aditya College of Engineering &Technology, East Godavari                                                                                     2021-2025     
+Bachelor of Technology in Electrical and Electronics Engineering |CGPA:8.32                                                                             AP, India     
+                                                                                                                           
+TECHNICAL SKILLS 
+ 
+Programming Languages & Core Concepts: Python, SQL, C, OOP (Object-Oriented Programming), DSA basics. 
+ 
+Data Analytics & Visualization: EDA, Data Cleaning, Visualization, Statistical Analysis, Power BI, Tabulae. 
+ 
+Machine Learning: Supervised & Unsupervised Learnings, Algorithms, Feature Engineering, Model Evaluation, Model 
+Deployment 
+ 
+Deep Learning: ANN, CNN, Neural Networks, Keras, TensorFlow, Image Augmentation 
+ 
+Artificial Intelligence: Generative AI, LLMs, RAG, Prompt Engineering, Transformers, Langchain, FASTAPIs 
+ 
+Databases & Cloud: SQL Server, MySQL, AWS (s3, EC2), Cloud Computing (Google), Azure (VMs, Blob Storage), Docker. 
+ 
+PROJECTS 
+Loan Prediction Web Application                                                                                                                    01/2026 - 02/2026 
+       Tech: Python, FastAPI, Scikit-learn, Docker, HTML, CSS, Decision Tree, GridSearchCV 
+ 
+Built and optimized a Random Forest model using GridSearchCV, achieving F1-score of 0.85 and Recall of 0.86. 
+ 
+Designed and optimized SQL queries for data retrieval and performance improvement. 
+ 
+Developed RESTFUL APIs using FastAPI for real-time predictions and model deployment in Docker. 
+ 
+Online Examination System                                                                                                                               02/2024– 04/2024 
+      Tech: Reactjs, Nodejs, MongoDB, Redux js, Cloud Computing, GitHub, AWS 
+ 
+Built a MERN stack web application for online exams with authentication and result processing. 
+ 
+Deployed on AWS (EC2, S3) ensuring scalability and reliability 
+ 
+CERTIFICATIONS 
+  
+ 
+IT Specialist Python Programming Certification – Pearson 
+ 
+Machine Learning with Python - IBM 
+ 
+AWS Cloud Computing – Internshala 
+ 
+HOBBIES 
+   
+ 
+Playing games 
+ 
+Listening to music 
+ 
+Travelling 
+ 

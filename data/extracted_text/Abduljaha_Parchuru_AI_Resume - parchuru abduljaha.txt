@@ -1,0 +1,53 @@
+ABDULJAHA PARCHURU 
+AI Engineer | Gen AI Developer | Python Fullstack Developer 
+Hyderabad, India  |  +91 9100845631  |  parchuruabduljaha786@gmail.com  |  linkedin.com/in/abduljahaparchuru 
+PROFILE SUMMARY 
+AI Engineer and Gen AI Developer with hands-on experience building LLM-powered applications, RAG pipelines, and full-stack solutions using Python, 
+Django, and FastAPI. Skilled in API integration, prompt engineering, and conversation design with tools like Claude, Gemini, and OpenAI, along with a 
+strong foundation in machine learning and deep learning using Scikit-learn, TensorFlow, and Keras. Currently contributing to live production GenAI 
+projects, with a passion for building intelligent, real-world AI solutions. 
+EDUCATION 
+B.Tech in Computer Science & Engineering, Malineni Perumallu Educational Society's Group of 
+Institutions, Guntur 
+Nov 2021 – Jun 2025 
+CGPA: 7.5 
+Intermediate (M.P.C), Narayana Junior College, Guntur 
+Jun 2018 – Mar 2020 
+CGPA: 8.34 
+SSC, Narayana Group of Schools 
+Jun 2017 – Apr 2018 
+CGPA: 9.7 
+INTERNSHIP 
+AI & Gen AI Developer Intern, Talent Smart Soft Solutions 
+May 2026 – Nov 2026 (Ongoing) 
+• Building and integrating Large Language Models (LLMs) through API integration, prompt engineering, and conversation design for real-time 
+applications. 
+• Developing RAG pipelines using vector databases and embedding models; working on transformer-based models for NLP tasks like summarization 
+and classification. 
+• Contributing to live production GenAI projects using Python, Django, and FastAPI in an agile team environment. 
+TECHNICAL SKILLS 
+AI / Gen AI: LLM APIs (Claude, Gemini, OpenAI), LangChain, Prompt Engineering, RAG, Transformers 
+ML / DL: Supervised & unsupervised learning, neural networks, computer vision using Scikit-learn, TensorFlow, Keras, OpenCV 
+Python Fullstack: Python, Django, FastAPI, HTML, CSS, REST APIs 
+Database: MySQL 
+Cloud & Tools: AWS, Git, Jupyter Notebook, VS Code, Vibe Coding, Antigravity, Gemini 
+PROJECTS 
+Face Recognition Attendance System | Deep Learning | FastAPI | MySQL | OpenCV | ONNX 
+• Developed a real-time face recognition attendance system using deep learning models via ONNX runtime and OpenCV, with a FastAPI backend for 
+enrollment, live recognition, and automatic attendance logging into MySQL. 
+LLM Health Analysis System | Python | LangChain | Gemini | Streamlit 
+• Built an AI health assistant using Gemini LLM and LangChain with conversation memory, and an interactive Streamlit dashboard with safe-
+response guardrails for multi-turn consultation. 
+Personal Startup — Service Information Portal | Python | Django | HTML | CSS 
+• Designed and built a fully functional service-based information portal using Django with a responsive HTML/CSS frontend and clean, maintainable 
+project structure. 
+Machine Learning & Deep Learning Projects | Python | Scikit-learn | TensorFlow | Keras | Jupyter Notebook 
+• Built and trained ML/DL models for classification, regression, clustering, and image/text data, managing complete workflows from preprocessing 
+to evaluation and visualization. 
+CERTIFICATIONS 
+• Certified in Python by FreeCodeCamp 
+• Certificate of Internship by The Developers Arena 
+• Certified by Smart Internz on Front-End Development 
+• Certified by Cognitive Class on Python for Data Science 
+HOBBIES 
+Playing Cricket   |   Listening to Music   |   Watching Movies 

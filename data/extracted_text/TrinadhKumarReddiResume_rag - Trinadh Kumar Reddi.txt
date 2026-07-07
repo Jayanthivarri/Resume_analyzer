@@ -1,0 +1,77 @@
+TRINADH KUMAR REDDI
+redditrinadhkumar@gmail.com | +91 7674878252 | LinkedIn | GitHub
+Aspiring AI/ML Engineer with hands-on experience building RAG systems, data analysis pipelines, and full-stack applications using 
+Python, LangGraph, and modern data tooling.
+EDUCATION
+B.Tech, Artificial Intelligence and Machine Learning — CGPA: 7.86
+Bonam Venkata Chalamayya Engineering College, Odalarevu | 2021 - 2025
+Intermediate (MPC) — 81.4% | Sri Chaitanya Jr College, Amalapuram | 2019 - 2021
+Class X — 93% | G R Mariappan Sir C V Raman (EM) P S, Amalapuram | 2018 - 2019
+PROJECTS
+RAG Customer Support Assistant — LangGraph, ChromaDB & Streamlit
+●
+Built a production-style Retrieval-Augmented Generation system for customer support using LangGraph, ChromaDB, 
+and Streamlit as part of an internship project at Innomatics Research Labs.
+●
+Implemented a PDF ingestion pipeline that chunks documents, generates embeddings with the BAAI/bge-small-en-v1.5 
+model, and stores them in ChromaDB for semantic retrieval.
+●
+Designed a LangGraph workflow with intent detection and conditional routing that generates answers via 
+Groq/LLaMA3 or OpenAI based on retrieved context and similarity confidence scores.
+●
+Added a Human-in-the-Loop escalation flow that routes low-confidence, uncertain, or complex queries to a human 
+agent panel, with responses integrated back into the chat as verified answers.
+●
+Delivered a Streamlit UI supporting multi-PDF uploads, streaming responses, source citations, an explainable retrieval 
+viewer, feedback buttons, and an analytics dashboard.
+Risk-Return Evaluation of Indian Mutual Funds — Web Scraping & Data Analysis
+●
+Scraped financial data from online sources using Python, BeautifulSoup, and Requests.
+●
+Analyzed mutual fund performance metrics including Average Return, Volatility, Sharpe Ratio, AUM, and TER using 
+Pandas and NumPy.
+●
+Performed exploratory data analysis and visualizations using Matplotlib and Plotly to identify optimal investment 
+categories.
+●
+Generated insights showing ETFs and Index Funds as strong risk-adjusted investment options.
+Brain Stroke Prediction — Exploratory Data Analysis
+●
+Performed end-to-end data cleaning and EDA using Python, Pandas, and Matplotlib, applying IQR for outliers, creating 
+pivot tables and visualizations, and uncovering key relationships between age, hypertension, heart disease, glucose 
+level, smoking habits, and stroke across 5000+ patient records.
+Bank Account Simulation System
+●
+Built a console-based banking system using Python, implementing functions, loops, and conditional statements, with a 
+Streamlit interface to simulate account creation, deposits, withdrawals, and balance checks.
+Handwritten Character Recognition
+●
+Built a character recognition model to classify handwritten alphabets and digits from image data, with the design 
+extensible toward recognizing full words and sentences.
+SKILLS
+Programming Languages: 
+Python, SQL
+Data Analysis & Visualization: 
+Pandas, NumPy, Matplotlib, Plotly, Power BI
+Web Scraping & Data Collection: 
+BeautifulSoup, Requests, Regular Expressions (Regex)
+Machine Learning: 
+Scikit-learn, Deep Learning Basics, NLP, RAG, LangGraph
+Databases: 
+MySQL, RDBMS, SQL Queries, Joins
+Tools: 
+Jupyter Notebook, MySQL, VS Code, Git & GitHub, Streamlit, Power BI, MS Excel
+Soft Skills: 
+Teamwork, Critical Thinking, Communication, Problem Solving
+HOBBIES & INTERESTS
+Building end-to-end AI/ML and full-stack side projects
+Exploring new developer tools and workflows (e.g. GitHub Copilot)
+Competitive coding and problem solving
+Reading about emerging AI research and applications
+Playing chess
+Cricket
+Traveling
+COURSES AND CERTIFICATES
+Microsoft Certified: Azure AI Fundamentals — Microsoft, June 19, 2024
+Machine Learning with Python (ML0101EN) — Cognitive Class (IBM), February 12, 2024
+Python — GUVI, August 6, 2023

@@ -1,0 +1,48 @@
+RAJA TIRUMALASETTI 
++91 6301820179 — rajatirumalasetti2@gmail.com 
+linkedin.com/in/raja-tirumalasetti — github.com/Raja-Tirumalasetti 
+ 
+ 
+Profile Summary 
+Results-driven Computer Science graduate with strong foundations in Python, data analytics, and machine learning. 
+Experienced in real-world projects including stock market prediction and interactive dashboards using Power BI. A 
+quick learner with strong problem-solving skills, seeking an entry-level role in software development, data analytics, 
+or machine learning. 
+ 
+Technical Skills 
+Languages: Python, SQL, C++, HTML, CSS, Machine Learning 
+Data Tools: Power BI, Microsoft Excel, Pandas, NumPy, Streamlit 
+Soft Skills: Problem Solving, Critical Thinking, Communication, Quick Learner 
+ 
+Projects 
+Stock Market Monitoring & Price Prediction Using ML 
+2025 
+• Built a predictive system using ARIMA, LSTM, and XGBoost for stock price forecasting. 
+• Processed and analyzed historical datasets using Pandas and NumPy. 
+• Developed interactive dashboards in Power BI for trend analysis. 
+• Role: Team Lead — managed project lifecycle, documentation, and stakeholder presentations. 
+Spotify Top Hit Playlist Analysis  
+• Cleaned and structured large datasets using Microsoft Excel. 
+• Designed Power BI dashboards to analyze music trends and song popularity. 
+• Delivered insights on user preferences and cultural impact. 
+ 
+Education 
+Bachelor of Engineering (B.E.) – Computer Science & Engineering 
+Sri Vasavi Institute of Engineering and Technology, Nandamuru 
+CGPA: 7.9/10 
+2021–2025
+Intermediate (MPC) 
+2019–2021
+Pavitra Co-operative Junior College, Machilipatnam 
+Percentage: 89% 
+SSC (10th Standard) 
+2018–2019 
+Sri Chaitanya School, Challapalli 
+GPA: 9.5/10 
+ 
+Certifications 
+• Employability Skills Certification – ICT Academy & Infosys Foundation 
+• AWS Data Engineering Virtual Internship Certificate 
+ 
+ 
+ 

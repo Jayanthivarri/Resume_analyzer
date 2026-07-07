@@ -1,0 +1,64 @@
+MAREDDY ROHITHA 
+rohithamareddy30@gmail.com | +91 9701681292 | LinkedIn | GitHub 
+PROFESSIONAL SUMMARY 
+ 
+Motivated Computer Science graduate with hands-on experience in Python, Machine Learning, and Generative AI. Strong 
+foundation in software development and AI technologies, with a passion for building scalable, real-world solutions. Quick 
+learner, committed to writing quality code, continuously improving technical skills, and contributing effectively to a 
+collaborative team. 
+EDUCATION 
+ 
+QIS College of Engineering and Technology, Ongole 
+Bachelor of Technology in Computer Science and Engineering | 82% 
+2021-2025 
+TECHNICAL SKILLS 
+ 
+Programming Languages:  Python, SQL 
+Web Technologies: HTML, CSS, Bootstrap 
+Machine Learning: Supervised & Unsupervised Learnings, Algorithms, Feature Engineering, Model Evaluation 
+Artificial Intelligence: Generative AI, LLMs, RAG, Prompt Engineering, Transformers 
+Databases: MySQL 
+Tools:  VS Code, Jupyter Notebook, Git, GitHub 
+Soft Skills: Time Management, Communication, Problem Solving 
+ 
+PROJECTS 
+ 
+UPI Fraud Detection System Using Machine Learning 
+Developed a fraud detection model using Logistic Regression, Random Forest, and XG Boost on transaction data(15+ features), 
+achieving 92.4% precision and 0.89 F1-score with SMOTE for class imbalance. Reduced false positives by 31% and automated 
+detection, saving ~8 hours/week of manual review effort. 
+Shrimp Disease Detection Using Machine Learning 
+Developed an image-based disease detection system using CNN and KNN, achieving 93.7% accuracy and 96% recall for 
+Diseased class. Deployed via Flask REST API with Docker and React dashboard, reducing disease-related losses by 25% in 
+Pilot testing. 
+ 
+INTERNSHIPS 
+ 
+Generative AI Internship|Talent Smart 
+May 2026-PRESENT 
+• 
+Developed practical skills in Generative AI, Large Language Models (LLMs), Retrieval-Augmented 
+Generation (RAG), Prompt Engineering, and AI application development. 
+• 
+Built AI-powered projects including LLM-based Image Caption Evaluation, Intelligent Content Moderation, 
+and Face Recognition Authentication using Python and modern AI frameworks.   
+• 
+Continuously expanding expertise by developing efficient, scalable, and real-world AI solutions while exploring 
+advanced Generative AI technologies. 
+CERTIFICATIONS 
+ 
+• 
+Python Full Stack – Codegnan IT Solutions 
+• 
+Python Developer Certification — freeCodeCamp 
+• 
+Intro to Machine Learning , Intro To Deep Learning – Kaggle 
+• 
+Generative AI for Everyone – DeepLearning.AI (Coursera) 
+ 
+TECHNICAL ACTIVITIES 
+ 
+• 
+Participated in SMART INDIA HACKATHON 
+• 
+Participated in Meta Hackathon 2026 

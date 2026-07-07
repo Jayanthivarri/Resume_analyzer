@@ -1,0 +1,28 @@
+Devi Srividya
+Professional Summary
+Devi Srividya is passionate about Artificial Intelligence, Generative AI, Machine Learning, Python,
+and Software Development. She enjoys building AI-powered applications and has knowledge of
+Python, SQL, HTML, CSS, JavaScript, LangChain, Retrieval-Augmented Generation (RAG), Large
+Language Models (LLMs), embeddings, vector databases, Git, and GitHub.
+Education
+B.Tech – Computer Science and Information Technology (CSIT)
+PACE Institute of Technology and Sciences
+2021 – 2025
+CGPA: 8.68
+Technical Skills
+Python, SQL, HTML, CSS, JavaScript, Git, GitHub, LangChain, Generative AI, LLMs, RAG, Prompt
+Engineering, FAISS, Chroma, Embeddings, Similarity Search, VS Code, Google Colab, Jupyter
+Notebook.
+Soft Skills
+Problem Solving, Analytical Thinking, Team Collaboration, Communication, Adaptability, Quick
+Learning, Time Management.
+Project
+Savory Delights – Food Ordering Website
+Developed a responsive food ordering website using HTML, CSS, and JavaScript with an attractive
+user interface, food menu, navigation, and interactive features.
+Achievement
+Received a recognition award for achieving a perfect score of 10/10 in an assessment/training
+evaluation.
+Interests
+Generative AI, Machine Learning, AI Chatbots, Document Retrieval Systems, Reading Technical
+Blogs, Coding Challenges, and Badminton.

@@ -1,0 +1,82 @@
+                            RESUME          
+GORINTALA  KAVYA        
+Email-id: gorintalakavyayadav02@gmail.com         
+                      Contact no:9505245204        
+CAREER OBJECTIVE:          
+Secure a responsible career opportunity to fully utilize my training and skills, while making a significant 
+contribution to the success of the company.   
+EDUCATIONAL QUALIFICATIONS : 
+B. TECH (2020-2024) : JNTUH UNIVERSITY COLLEGE OF ENGINEERING, JAGTIAL (EEE- 8.0 CGPA) 
+MINOR DEGREE : Data Science at JNTUH UNIVERSITY COLLEGE OF ENGINEERING, JAGTIAL (2022-
+2024) with 7.5 CGPA 
+INTERMEDIATE : Narayana Junior College (2018-2020) with 983 marks 
+SSC : Sri Chaithanya Vidyanikethan High School (2017-2018) with 9.2 GPA  
+PROJECTS/INTERNSHIPS:       
+1.INDUSTRIAL TRAINING PROGRAMME ON "TRANSFORMERS PROTECTION", at 132/33KV      
+SUBSTATION, SURYAPET.                                                                                               12May,2023- 26May,2023       
+Participated in an intensive Industrial training program focused on transformer protection. Acquired hands-on 
+experience in analysing troubleshooting, and implementing protective measures for transformers, enhancing 
+practical skills in safeguarding critical electrical infrastructure.  
+2. PROJECT - “ENHANCEMENT OF POWER QUALITY IN EV CHARGING STATION THROUGH  AN 
+ADVANCED MULTIPHASE AC-DC CONVERTER” .                                                   10Oct,2023 – 27Dec,2023      
+We have developed an EV charging station, draws current from the utility grid at low THD and high PF, without 
+using PF corrector and active/passive filter circuits. It consists of three single-phase MWTs and diode rectifiers. 
+MWTs are connected to enable direct conversion of a three-phase utility supply into an 18-phase power supply that 
+reduces the measured THD in the input line current.       
+ 3. INDUSTRIAL TRAINING PROGRAM ON MACHINE LEARNING-COMPLETED THE PROJECTS 
+ON “PREDICT DIABETES WITH MACHINE LEARNING” AND “NUMBER OF ORDERS 
+PREDICTION. 
+Successfully undergone Industrial Program on Machine Learning form Fox Trading, under the guidance of mentor 
+and company representative.  
+  
+       TECHNICAL SKILLS: 
+• 
+Programming Languages : Python, Java, C++, C#, SQL, Databases: MySQL, PostgreSQL 
+• 
+Data Science & Analytics: Data Analysis, Data Cleaning, Data Wrangling, Data Preprocessing, Feature 
+Engineering, Exploratory Data Analysis (EDA), Statistical Analysis, Data Visualization. 
+• 
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+• 
+Machine Learning & NLP: Machine Learning, Natural Language Processing (NLP), Transformers, Text 
+Classification, Tokenization, Embeddings. 
+• 
+Web Technologies: HTML5, CSS3, JavaScript (Basic), React.js, Next.js, Node.js  
+• 
+Data Engineering & Tools: Data Modeling, Data Warehousing (Basics), ETL Processes, ETL Design, 
+Data Pipeline Development, Data Mining 
+• 
+Visualization Tools: Tableau, Power BI, Excel Dashboards, Developer Tools: Git, Postman 
+• 
+Cloud & Deployment: Google Cloud Platform (GCP), Google OAuth 
+• 
+Core Engineering Knowledge: Electrical Machines, Power Electronics, Auto CAD, MATLAB Simulink 
+• 
+KPI Development, Metrics Framework Design, Version Control. 
+INTERPERSONAL  SKILLS:       
+• 
+Strong teamwork and collaboration abilities, with experience working effectively in group environments 
+• 
+Good communication and presentation skills, able to explain ideas clearly and confidently 
+• 
+Problem-solving mindset with strong critical thinking skills 
+• 
+Basic project management skills, including planning, organizing, and meeting deadlines. 
+PERSONAL DETAILS :       
+  
+  
+Name           
+: GORINTALA KAVYA        
+    
+Father’s Name          
+: GORINTALA LAXMAN      
+             Mother’s Name                : GORINTALA PADMA   
+    
+Date of Birth          
+: 15-05-2002        
+Gender                             :  Female.              
+                Languages Known           : Telugu, English and Hindi                
+            Permanent Address           : H. No.:  6-4/1, Bhiknoor, Kamareddy, Telangana.               
+DECLARATION :           
+   I hereby declare that the information furnished above is true to the best of my knowledge.          
+   G. Kavya.                                                                                                                         Place : Hyderabad.      

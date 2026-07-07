@@ -1,0 +1,63 @@
+MEKAPOTHULA ASHOK REDDY 
+Hyderabad, Telangana 
++91 9014348562 | mekapothulaashokreddy2004@gmail.com 
+LinkedIn:http://www.linkedin.com/in/mekapothula-ashok-reddy 
+ CAREER OBJECTIVE 
+Results-driven Software Engineer specializing in Artificial Intelligence & Data Science. Proficient in 
+Java, Python, C, SQL, and machine learning algorithms with hands-on experience in predictive 
+modeling, data preprocessing, and statistical analysis. Passionate about developing AI-driven 
+solutions to solve real-world problems. 
+ 
+TECHNICAL SKILLS 
+ 
+Programming Languages: Python, Java, C, SQL, HTML 
+ 
+Machine Learning & Data Science: Predictive Modeling, Data Analysis, Statistical Analysis 
+ 
+Tools & Technologies: Pandas, NumPy, Scikit-learn, TensorFlow, MySQL 
+ 
+Core Competencies: Problem-Solving, Algorithm Development, Data Preprocessing 
+ 
+ EDUCATION 
+ 
+B.Tech in Artificial Intelligence & Data Science 
+Vignan Institute of Technology and Sciences (2021–2025) | CGPA: 7.7/10 
+ 
+Intermediate (MPC) 
+Narayana Junior College (2019–2021) | Percentage: 98% 
+ 
+SSC 
+St. Mary's School (2019) |GPA 10.0/10.0 
+ PROJECTS  
+Stroke Risk Prediction System (Healthcare ML Project) 
+ 
+Developed a machine learning model to predict stroke risk using Python and data 
+preprocessing techniques. 
+ 
+Enhanced model accuracy by 25% through feature engineering and statistical analysis. 
+ 
+Applied ML algorithms for early medical risk detection. 
+Taxi Fare Prediction System (Transportation Analytics) 
+ 
+Built a predictive model for taxi fare estimation using regression analysis. 
+ 
+Designed data visualization dashboards for trend analysis and pricing optimization. 
+ 
+Utilized Python, Statistical Analysis, and Regression Modeling for accurate results. 
+ 
+ CERTIFICATIONS 
+ 
+Java & C – NPTEL 
+ 
+Advanced Python – Udemy 
+ 
+Data Science – Great Learning 
+ 
+SQL & Python – HackerRank 
+ ADDITIONAL INFORMATION 
+ 
+Languages: English, Telugu, Hindi 
+ 
+Soft Skills: Communication, Teamwork, Analytical Thinking, Problem-Solving 
+ 
+Hobbies: Learning New Technologies, Reading Books, Playing Games 

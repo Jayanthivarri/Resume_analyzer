@@ -1,0 +1,47 @@
+KAMALSHETTY TANUSHA
+ +91 9396272139 # kamalshettytanu1010@gmail.com
+ï LinkedIn § GitHub
+Summary
+Diligent Computer Science graduate specializing in Artificial Intelligence and Machine Learning, passionate about
+leveraging cutting-edge technologies to drive innovation. Eager to expand expertise and gain hands-on experience
+with emerging industry trends to develop impactful real-world solutions.
+Education
+Sphoorthy Engineering College, Jawaharlal Nehru Technological University Hyderabad
+2021 - 2025
+B.Tech in CSE-AIML
+8.32/10 CGPA
+Gayathri Junior College, Hyderabad
+2019 - 2021
+INTERMEDIATE
+9.8/10
+Sai Grammar High School, Hyderabad
+2018 - 2019
+SSC
+9.8/10 CGPA
+Skills
+• Programming Languages: Python, C
+• Frontend Technologies: HTML and CSS, Bootstrap, React.js
+• Database and Data Storage: SQL, Mongo DB
+• IDEs: Visual Studios, Jupyter
+• Soft Skills: Communication, Problem Solving, Adaptability, Leadership, Teamwork, Empathetic
+Projects
+Future Crop-AI Powered Price Prediction For Agri and Vegetable Market
+• Built an ML model using Random Forest and Decision Tree to predict crop prices with up to 87% accuracy,
+analyzing 10,000+ records of historical price and weather data as part of my academic project.
+Invoice Management and PDF Generation System
+• Developed a React-based invoice system with client auto-suggestions, dynamic item management, real-time
+totals, and PDF export using html2canvas and jsPDF, featuring professional A4-formatted invoice previews.
+Medical Insurance Price Prediction Using Machine Learning
+• Developed a machine learning model analyzing 1,300+ insurance records with 5 key features. Trained and
+compared models including Linear Regression, Random Forest, and Gradient Boosting, achieving an R² score
+of 0.85.
+Co-Curricular Activities
+• Secretary, She Inspires Women’s Chapter-SPHN
+(2023-2024)
+• Participated in 36 Hour Ideathon
+(Sphoorthy Engineering College, Z-LABS)
+• Participated in J-HUB 36 Hour Hackathon
+(Sphoorthy Engineering College, JNTUH)
+Hobbies/Areas of interest
+• Pencil sketching
+• Cycling

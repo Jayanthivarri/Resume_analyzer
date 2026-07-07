@@ -1,0 +1,80 @@
+Tellamekala Harikrishna
+harikrishnahari89620@gmail.com
+—
++91-7093849918
+—
+LinkedIn
+—
+GitHub
+PROFILE SUMMARY
+Aspiring AI Engineer skilled in Machine Learning, Deep Learning, LLMs, RAG, and AI Agents using LangChain and LangGraph.
+Experienced in building Generative AI applications and computer vision solutions with Python, TensorFlow, and PyTorch.
+EXPERIENCE
+ AI Engineer Intern
+May 2026 – Nov 2026
+TalentSmart Solutions
+Offline
+– LLM Application Development: Built AI applications using LLMs, Prompt Engineering, and RAG for document
+understanding and Q&A.
+– AI Agent Development: Developed AI workflows using LangChain and LangGraph for multi-step reasoning and tool
+calling.
+– Computer Vision: Built image moderation and face detection solutions using OpenCV and Deep Learning.
+– Ground Truth Validation: Designed a system to validate AI-generated image captions against human ground truth using
+semantic similarity and hallucination detection.
+ACADEMICS
+ B.E in Computer Science and Engineering
+2025
+SIMATS Engineering, Chennai
+CGPA: 8.6
+ Intermediate (M.P.C)
+2021
+S.A.V & N.V.J.R Junior College, Jaggayyapeta
+Percentage: 93.2%
+ S.S.C
+2019
+Narayana E-Techno School, Jaggayyapeta
+CGPA: 9.5
+SKILLS SUMMARY
+ Programming Languages: Python, SQL, Java
+ Artificial Intelligence: Generative AI, Large Language Models (LLMs), Prompt Engineering, AI Agents
+ Machine Learning: Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+ Deep Learning: ANN, CNN, RNN, LSTM, Transformers
+ LLM Frameworks: LangChain, LangGraph, Hugging Face Transformers, OpenAI API
+ RAG: Retrieval-Augmented Generation, Vector Embeddings, Semantic Search
+ Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn
+ Vector Databases: FAISS, ChromaDB
+ Deployment: Streamlit, FastAPI
+ Tools: Git, GitHub, VS Code, Google Colab, Jupyter Notebook
+ Databases: MySQL
+PROJECTS
+ LLM Project – Image Description & Ground Truth Validator
+2026
+– Description: AI application to compare AI-generated image descriptions with human ground truth using semantic similarity
+and hallucination detection, via a Streamlit interface.
+– Technologies: Python, Streamlit, OpenAI GPT, Hugging Face, LangChain, Pandas
+ RAG-based AI Document Assistant
+2026
+– Description: RAG application that answers questions from PDFs and documents using vector embeddings and semantic
+retrieval.
+– Technologies: Python, LangChain, FAISS, ChromaDB, OpenAI API
+ DeFreeze Shoulder – Android & iOS App
+2026
+– Description: Developed and published an Android and iOS app to help reduce shoulder pain, featuring exercise videos, a
+Q&A section, and doctor–patient appointment booking. Live on the Google Play Store.
+– Technologies: Android, iOS
+ Deep Learning Project – Image Classification using CNN
+2026
+– Description: Trained a CNN model for multi-class image classification using data augmentation and transfer learning.
+– Technologies: TensorFlow, Keras, OpenCV
+CERTIFICATES
+ Python Certificate
+November 2025
+Kaggle
+ Machine Learning Certificate
+May 2026
+Kaggle
+ Deep Learning Certificate
+June 2026
+Kaggle
+HOBBIES
+ Interests: Listening to Songs, Playing Cricket, Cooking, Gym

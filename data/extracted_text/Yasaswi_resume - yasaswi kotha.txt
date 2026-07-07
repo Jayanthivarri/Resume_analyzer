@@ -1,0 +1,83 @@
+KOTTA YASASWI 
+ yasaswi.kotha2004@gmail.com  
+ 9030827948 
+ Kukatpally, pragathi nagar, saptami heights, flat no 101,b block  
+ github.com/yasaswikotha 
+PROFILE 
+ 
+Motivated Computer Science undergraduate with hands-on experience in full-stack web development and 
+database management. Passionate about building scalable applications and continuously learning new 
+technologies. Strong team collaborator with good problem-solving and communication skills. 
+INTERNSHIP 
+WEB DEVELOPMENT INTERN, ordanance defence factory 
+05/2025 – 06/2025 Assisted in designing 
+responsive web pages using HTML,CSS and JavaScript.• Hyderabad Worked on backend integration and basic 
+database handling using MySQL. 
+• 
+PYTHON PROGRAMMING INTERN 
+10/2024 
+– 
+11/2024 
+Developed basic python applications and participated in debugging exercises.• 
+Gained hands-on experience with OOPs concepts.• 
+EDUCATION 
+ 
+INTERMEDIATE, Sri gayatri junior college 
+2020 – 2022 
+Board: TSBIE• 
+Hyderabad 
+Percentage: 89.2% 
+• 
+10th GRADE, Pragathi central school 
+2019 – 2020 
+Board: CBSE• 
+Hyderabad 
+Percentage: 78%• 
+SKILLS 
+ 
+  
+ reddy  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECTS 
+IT INVENTORY MANAGEMENT SYSTEM 
+Developed a system to track IT assets using Java and MySQL.• 
+Implemented CRUD operations and user authentication.• 
+Normalized relational database schema to reduce redundancy and improve query efficiency.• 
+PERSONAL PORTFOLIO WEBSITE 
+Designed and developed a responsive portfolio using HTML, CSS, and JavaScript to showcase academic and• 
+ 
+project experience. 
+Hosted the site using GitHub Pages.• 
+Optimized website performance by minimizing CSS and JavaScript files• 
+CODE EDITOR 
+Built a browser-based code editor using JavaScript and local storage.• Supported 
+real-time code preview.• 
+CERTIFICATES 
+ 
+JAVA FULLSTACK  
+DEVELOPMENT 
+ kosmik technologies• 
+CAMBRIDGE ENGLISH  
+EMPOWER 
+ Level C1 course• 
+ 
