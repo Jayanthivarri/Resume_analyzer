@@ -11,16 +11,16 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 def extract_text_from_pdf(pdf_path):
     """
-    Extract text from a PDF file.
+    Extract text from a PDF file while preserving readable section breaks.
     """
     document = fitz.open(pdf_path)
     text = ""
 
     for page in document:
-        text += page.get_text()
+        text += page.get_text() + "\n"
 
     document.close()
-    return text
+    return text.replace("\r\n", "\n").strip()
 
 
 def process_resumes():
