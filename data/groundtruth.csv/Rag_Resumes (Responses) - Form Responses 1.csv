@@ -1,0 +1,48 @@
+Timestamp,Email Address,Resume_File,Sample_query,GroundTruth_Answer,Name
+,,,,,
+7/6/2026 13:55:35,,https://drive.google.com/open?id=1iA5pL_Q0Way69l8fzISR7-lbSrbrHdwd,Can you explain one of Ishaaq Shaik's major projects?,"One of Ishaaq Shaik's major projects is Servizo, a Service Management System developed for gated communities. The application enables customers to book services, administrators to manage requests, and service providers to update task statuses. Ishaaq developed the frontend using HTML, CSS, JavaScript, and Bootstrap, while the backend was built using Python ,Django with MySQL. This project showcases Ishaaq's full-stack development and problem-solving skills.",Ishaaq Shaik
+7/6/2026 14:34:35,,https://drive.google.com/open?id=11dgb3_zo3TVx1Tupy79BU9KS2_Uo_T2O,What technologies is Devi Srividya skilled in?,"Expected Answer: Generative AI, Large Language Models (LLMs), Retrieval-Augmented
+Generation (RAG), Python, and Machine Learning.",Sanikommu Devi Srividya
+7/6/2026 14:35:32,,https://drive.google.com/open?id=1fSnN5GOOoZRrmp4mXmsnx4wvx14bQMoU,Which AI projects were built during the internship?,"LLM-based Image Caption Evaluation
+Intelligent Content Moderation
+Face Recognition Authentication using Python and modern AI frameworks.",Rohitha Mareddy
+7/6/2026 14:36:29,,https://drive.google.com/open?id=1nrGKk5kTpRwwNq6YMMmS_4MImsBZ-TVE,"What are Jayadharani's technical skills?
+","Jayadharani has skills in Python,C, Machine Learning,Deep Learning, HTML, CSS, Flask,Mysql and AI",Thalam Jaya Dharani
+7/6/2026 14:40:55,,https://drive.google.com/open?id=18p3YI6WoOkNhW5mGivAuAyxAWbIXBetX,What are Amani's hobbies?,"Sports & Fitness, Traveling, Music.",Amani
+7/6/2026 14:47:00,,https://drive.google.com/open?id=1f5FbVaUV70rAZAEWyelpa1KD_e2up1F-,Explain how you built your Customer Churn Prediction model and the steps you followed from data preprocessing to deployment.,"Built an XGBoost-based customer churn prediction model with 87% accuracy and 0.86 ROC-AUC, deployed using FastAPI and Streamlit.",Jayanthi
+7/6/2026 14:56:06,,https://drive.google.com/open?id=1uQCZjFrRRyxf_cBcDoSB0Ok8GSYu37ck,What is Tanusha passionate about according to the summary?,Leveraging AI and ML technologies to develop impactful real-world solutions.,Kamalshetty Tanusha
+7/6/2026 15:31:29,,https://drive.google.com/open?id=1ImsfGwd5alNsdm6Wx9mj8iXCmlaKELnm,what are the Indira's Skills,"python, mysql,html,css,and javascript",Muddada Indira
+7/7/2026 9:17:59,,https://drive.google.com/open?id=1GBNr3SxtcLCopYt8lnoUNwrJ2M8t4g2f,Which year did Venkatadri complete his Graduation?,2025,Venkatadri
+7/7/2026 9:33:32,,https://drive.google.com/open?id=1OshhOSX3J0N3xA8oiLyoClm2-9TPltsI,Tell me the branch of Ashok in B.Tech,Artificial Intelligence and Data Science,ASHOK REDDY
+7/7/2026 9:33:33,,https://drive.google.com/open?id=1OS3oJlDGUp8PTOUy4t2fscqsLX5PceqO,what languages does shreyas know ,"telugu,hindi,english",Raja vasireddy shreyas prasad 
+7/7/2026 9:37:56,,https://drive.google.com/open?id=1WU1eNIMEj12jTx3p5glezYibnmngc9CX,When did Raja complete his B.Tech?,2025,Raja
+7/7/2026 9:40:27,,https://drive.google.com/open?id=1BTImI-r4aI09nWV0DCVC5Pf6RIjJIc2S,"what is nanaji's hometown ?
+",pithapuram,nanaji
+7/7/2026 9:41:09,,https://drive.google.com/open?id=1xe5kQIBO8Y9EJY9UkVHZ4e01BtkgcVLD,Summarize Trinadh's resume.,"Trinadh is an aspiring AI/ML Engineer with experience in Python, SQL, Machine Learning, NLP, and Retrieval-Augmented Generation (RAG). He has built a production-style RAG Customer Support Assistant using LangGraph, ChromaDB, and Streamlit, completed multiple AI and data analysis projects, and holds Microsoft Azure AI Fundamentals and IBM Machine Learning with Python certifications.",trinadh
+7/7/2026 9:42:46,,https://drive.google.com/open?id=146AhLNXabApTS9GBihLIK3z3NhdmfoX3,Which university is Sadhu Rajyalaxmi pursuing her B.Tech from?,"Dr.B.R.Ambedkar University Srikakulam
+",Sadhu Rajyalaxmi
+7/7/2026 9:45:02,,https://drive.google.com/open?id=1BsTtagkWdQnO0x7hoYptv3Tvxqf09j7I,"what is percentage of dhanush in btech?
+",72,dhanush kumar
+7/7/2026 9:46:00,,https://drive.google.com/open?id=10hVDAJT65m7KnGRpqITa1ztAT1MOSzd3,"What GPA did Himavarni Singh achieve in the Master's degree at Northeastern University? 
+",3.8,HIMAVARNI SINGH 
+7/7/2026 9:47:53,,https://drive.google.com/open?id=1c5sqzDbTwfqLkhQx3lnkGPC4oG_0u-Wl,Who was an Active Member of the Student Council Public Relations Board in 2024?,K Shirley,Shirley Katherine
+7/7/2026 9:48:27,,https://drive.google.com/open?id=1DDYTifnuuWPU6EvmfyTJbAsB--AeOodq,What was your role and key responsibilities in the Vegetable Marketing Management System project?,"In the Vegetable Marketing Management System project, I designed and developed a command-line inventory and billing management system using Python. My key responsibilities included:
+
+Designing the inventory module to manage product records and dynamic stock updates.
+Implementing cart functionality and an automated billing system to reduce manual calculation errors.
+Applying modular programming concepts to improve code maintainability and scalability.
+Performing testing and debugging to ensure accurate profit computation and system reliability.
+Organizing structured data handling techniques to improve overall system efficiency.",Rani Sri
+7/7/2026 9:49:39,,https://drive.google.com/open?id=1c2-_rnuy2CLICROebRUVk9bvIwBejC1l,Does Avinash have a published research paper?,N/A — no publications section exists in the resume.,Avinash Chava
+7/7/2026 9:49:48,,https://drive.google.com/open?id=1ufcPSH_yuRoEWDzDMrodEzhHcIlpGxZI,what achievements did candidate have?,winner-college fashion competition ,vellanki swathi sree
+7/7/2026 9:53:57,,https://drive.google.com/open?id=1gTRZ1UZ0xEidGrWEv6S-QnnxaTAeFddI,What is Kavya's minor degree and university?,"Data Science at JNTUH UNIVERSITY COLLEGE OF ENGINEERING, JAGTIAL ",Gorintala Kavya
+7/7/2026 9:54:19,,https://drive.google.com/open?id=1wgghIU4RK-0yS4Xz-hFlSf5TIKOkEtg6,In which year did yasaswi graduate?,2026,Yasaswi
+7/7/2026 9:57:28,,https://drive.google.com/open?id=1t9w4QcD1TcyJYU5wCygZyyV19GHzxx7N,what are the Leadership activities done by prasanna?,Successfully completed NCC 'B' and 'C' Certificates,Prasanna
+7/7/2026 9:59:23,,https://drive.google.com/open?id=1TXniS5SRKB5a-p9-IpZlZx1t3yCeFOHS,Which year did Venkat complete his graduation?,2025,Venkatadri
+7/7/2026 10:12:36,,https://drive.google.com/open?id=1zcTU5ywaoMmMcyP-HmyqHiDGSN0ia1mh,Which of Harikrishna's projects is a mobile app rather than a web/AI tool?,The DeFreeze Shoulder -- Android & iOS App.,Hari krishna
+7/7/2026 10:15:34,,https://drive.google.com/open?id=1Ksg72nxbvt5BniZwGCflGYsSOnLmoaZl,Which development tools are listed in Abduljaha's resume?,"Git, Jupyter Notebook, VS Code, Vibe Coding, and Antigravity.",Abduljaha
+7/7/2026 11:14:06,,https://drive.google.com/open?id=1cXODM2v4QM6Lnb1SxENuyf_K8H-2ME7Y,What are the hobbies of Muddu Krishna?,"Singing
+Reading Books
+Sketching
+Playing Violin
+Building Games",Muddu Krishna
