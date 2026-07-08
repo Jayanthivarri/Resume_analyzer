@@ -8,7 +8,7 @@ load_dotenv()
 
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-model = genai.GenerativeModel("gemini-2.5-flash")
+model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 
 def generate_answer(question, context):
@@ -16,11 +16,21 @@ def generate_answer(question, context):
     prompt = f"""
 {SYSTEM_PROMPT}
 
+The following are the retrieved sections from a candidate's resume.
+
 Resume Context:
 {context}
 
 Question:
 {question}
+
+Instructions:
+- Answer ONLY using the provided resume context.
+- Combine information from all retrieved sections if needed.
+- If the answer is not available in the context, reply:
+  "The requested information is not available in the resume."
+- Do not guess or add external information.
+- Keep the answer clear and concise.
 
 Answer:
 """

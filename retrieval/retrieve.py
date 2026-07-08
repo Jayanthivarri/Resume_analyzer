@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 
 VECTOR_STORE_FOLDER = "data/vector_store"
 TEXT_FOLDER = "data/extracted_text"
-TOP_K = 5
+TOP_K = 2
 SEARCH_LIMIT = 50
 
 # Load embedding model
@@ -21,11 +21,29 @@ def normalize_text(text):
 
 
 def name_matches_query(query, candidate_name):
-    query_tokens = set(normalize_text(query).split())
-    candidate_tokens = set(normalize_text(candidate_name).split())
-    if not candidate_tokens or len(candidate_tokens) < 2:
-        return False
-    return candidate_tokens.issubset(query_tokens)
+
+    query = normalize_text(query)
+    candidate_name = normalize_text(candidate_name)
+
+    query_tokens = query.split()
+    candidate_tokens = candidate_name.split()
+
+    # Full name match
+    if candidate_name in query:
+        return True
+
+    # First name / Last name match
+    for token in candidate_tokens:
+        if token in query_tokens:
+            return True
+
+    # Partial match (JAYA -> JAYANTHI)
+    for q in query_tokens:
+        for token in candidate_tokens:
+            if token.startswith(q):
+                return True
+
+    return False
 
 
 def extract_candidate_name_from_filename(file_name):
@@ -45,17 +63,26 @@ def extract_candidate_name_from_filename(file_name):
 
 
 def extract_possible_name_from_query(query):
+
     stopwords = {
         "what", "are", "is", "the", "a", "an", "of", "for", "to", "in",
-        "on", "with", "and", "or", "about", "details", "resume", "candidate",
-        "skills", "technical", "education", "experience", "internship", "project",
-        "projects", "certifications", "certification", "summary", "details",
-        "please", "show", "give", "tell", "me", "my", "your"
+        "on", "with", "and", "or", "about", "details", "resume",
+        "candidate", "skills", "skill", "technical", "education",
+        "experience", "internship", "project", "projects",
+        "certifications", "certification", "summary",
+        "please", "show", "give", "tell", "me", "my", "your",
+        "qualification", "degree"
     }
-    words = [w for w in re.findall(r"[A-Za-z']+", query.lower()) if w not in stopwords]
-    if len(words) >= 2:
-        return " ".join(words[:2]).upper()
-    return None
+
+    words = re.findall(r"[A-Za-z]+", query)
+
+    candidates = []
+
+    for word in words:
+        if word.lower() not in stopwords:
+            candidates.append(word.upper())
+
+    return candidates
 
 
 def get_all_candidate_names(metadata):
@@ -100,13 +127,16 @@ def find_candidate_name(query, metadata):
         if name_matches_query(query, candidate):
             return candidate
 
-    possible_name = extract_possible_name_from_query(query)
-    if possible_name:
-        for candidate in metadata_names + [name for name in all_names if name not in metadata_names]:
-            if name_matches_query(possible_name, candidate):
-                return candidate
+    possible_names = extract_possible_name_from_query(query)
 
-    return None
+    for possible_name in possible_names:
+
+        for candidate in metadata_names + [name for name in all_names if name not in metadata_names]:
+
+            candidate_tokens = normalize_text(candidate).split()
+
+            if possible_name in candidate_tokens:
+                return candidate
 
 
 def get_section_priority(query):
@@ -196,9 +226,10 @@ def retrieve_resume(query, top_k=TOP_K):
     else:
         possible_name = extract_possible_name_from_query(query)
         if possible_name:
-            all_candidates = get_all_candidate_names(metadata)
-            if any(name_matches_query(possible_name, candidate) for candidate in all_candidates):
-                return [{"error": "I could not find this candidate in the uploaded resumes."}]
+           return [{
+            "error": True,
+            "message": f"Candidate '{possible_name.title()}' not found in the uploaded resumes."
+           }]
 
     results = filter_and_sort_results(results, query, candidate_name)
 
@@ -208,9 +239,11 @@ def retrieve_resume(query, top_k=TOP_K):
     debug_results = results[:top_k]
     print("Retrieved candidate chunks:")
     for rank, item in enumerate(debug_results, start=1):
+        content = item.get("text", "")[:300]
+        content = content.replace("\n", " ")
         print(
             f"{rank}. candidate_name={item.get('candidate_name')} | section={item.get('section')} | "
-            f"source={item.get('file_name')} | content={item.get('text', '')[:300].replace('\n', ' ')}"
+            f"source={item.get('file_name')} | content={content}"
         )
 
     return debug_results[:top_k]
@@ -220,16 +253,21 @@ if __name__ == "__main__":
 
     query = input("Enter your question: ")
 
-    results = retrieve_resume(query, top_k=3)
+    results = retrieve_resume(query, top_k=2)
 
-    if not results:
-        print("No results found.")
+    if results[0].get("error"):
+
+        print(results[0]["message"])
+
     else:
+
         result = results[0]
+
         print("\nRetrieved Section")
         print("----------------------------")
         print(result["section"])
         print(result["text"])
+
         answer = generate_answer(
             query,
             result["text"]
