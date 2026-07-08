@@ -190,77 +190,63 @@ if st.button("Get Answer"):
 # Ground Truth Evaluation
 # =====================================================
 
-if show_eval:
+    if show_eval:
 
-    excel_path = "data/groundtruth.csv/Rag_Responses.xlsx"
+        df, excel_path = load_ground_truth_dataframe()
 
-    if os.path.exists(excel_path):
+        if df is None:
 
-        df = pd.read_excel(excel_path)
-
-        # Safe conversion
-        df["Sample_query"] = (
-            df["Sample_query"]
-            .fillna("")
-            .astype(str)
-            .str.lower()
-            .str.strip()
-        )
-
-        user_query = query.lower().strip()
-
-        match = df[
-            df["Sample_query"] == user_query
-        ]
-
-        if not match.empty:
-
-            ground_truth = str(
-                match.iloc[0]["GroundTruth_Answer"]
-            )
-
-            score = semantic_similarity(
-                answer,
-                ground_truth
-            )
-
-            st.subheader("✅ Ground Truth")
-
-            st.info(ground_truth)
-
-            st.subheader("📊 Evaluation")
-
-            col1, col2 = st.columns(2)
-
-            with col1:
-
-                st.metric(
-                    "Semantic Similarity",
-                    f"{score:.4f}"
-                )
-
-            with col2:
-
-                if score >= 0.90:
-                    st.success("Excellent Match ✅")
-
-                elif score >= 0.75:
-                    st.info("Good Match 👍")
-
-                elif score >= 0.60:
-                    st.warning("Average Match ⚠️")
-
-                else:
-                    st.error("Poor Match ❌")
+            st.error(f"Ground Truth file not found:\n{excel_path}")
 
         else:
 
-            st.warning(
-                "Ground truth not found for this question."
+            ground_truth, matched_query = find_ground_truth_match(
+                query,
+                df
             )
 
-    else:
+            if ground_truth is not None:
 
-        st.error(
-            "Ground truth Excel file not found."
-        )
+                score = semantic_similarity(
+                    answer,
+                    str(ground_truth)
+                )
+
+                st.subheader("✅ Ground Truth")
+
+                st.info(str(ground_truth))
+
+                if matched_query:
+                    st.caption(f"Matched Question: {matched_query}")
+
+                st.subheader("📊 Evaluation")
+
+                col1, col2 = st.columns(2)
+
+                with col1:
+
+                    st.metric(
+                        "Semantic Similarity",
+                        f"{score:.4f}"
+                    )
+
+                with col2:
+
+                    if score >= 0.90:
+                        st.success("Excellent Match ✅")
+
+                    elif score >= 0.75:
+                        st.info("Good Match 👍")
+
+                    elif score >= 0.60:
+                        st.warning("Average Match ⚠️")
+
+                    else:
+                        st.error("Poor Match ❌")
+
+            else:
+
+                st.warning(
+                    "Ground Truth not found for this question."
+                )
+
